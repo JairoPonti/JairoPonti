@@ -1,16 +1,51 @@
-### Hi there 👋
+<h4> Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-<!--
-**JairoPonti/JairoPonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Jairo Marcelo Ponti. Soy un desarrollador Web Full Stack con experiencia en distintos proyectos personales y grupales bajo la metodología de trabajo Scrum
+---
 
-Here are some ideas to get you started:
+**Lenguajes y herramientas:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+  <div align="center">
+  
+   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+  </div>
+  </p>
+
+---
+
+**Estadísticas de Github:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JairoPonti&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoPonti&count_private=true&theme=dracula">
+
+</p>
+
+---
+
+<p align="center">
+  <i>¡Conectemos y charlemos! Encuéntrame en la web...</i>
+  
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-JairoPonti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-marcelo-ponti-048016180)](https://www.linkedin.com/in/jairo-marcelo-ponti-048016180) 
+   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
+   [![Facebook Badge](https://img.shields.io/badge/-jairo_ponti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/jairomarcelo.ponti)](https://web.facebook.com/jairomarcelo.ponti)
+ 
+ 
+
+  <p align="center">
+¡Muestra ❤️ destacando los repositorios que te parezcan buenos!
+    <br />
+    ⭐️ From [Jairo Ponti](https://github.com/JairoPonti)
+    <br />
+    Además, ¡Forkeá este repositorio si querés probar esta nueva función!
+  </p>
+</p>
+
+<div align="right">
+  
+</div>
