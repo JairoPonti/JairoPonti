@@ -32,15 +32,13 @@ Soy Jairo Marcelo Ponti. Soy un desarrollador Web Full Stack con experiencia en 
   
   
    [![Linkedin Badge](https://img.shields.io/badge/-JairoPonti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-marcelo-ponti-048016180)](https://www.linkedin.com/in/jairo-marcelo-ponti-048016180) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
+   [![Gmail Badge](https://img.shields.io/badge/-jairomponti-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jairomponti@gmail.com)](mailto:jairomponti@gmail.com)
    [![Facebook Badge](https://img.shields.io/badge/-jairo_ponti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/jairomarcelo.ponti)](https://web.facebook.com/jairomarcelo.ponti)
  
  
 
   <p align="center">
 ¡Muestra ❤️ destacando los repositorios que te parezcan buenos!
-    <br />
-    ⭐️ From [Jairo Ponti](https://github.com/JairoPonti)
     <br />
     Además, ¡Forkeá este repositorio si querés probar esta nueva función!
   </p>
