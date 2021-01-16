@@ -1,6 +1,6 @@
 <h4> Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy Jairo Marcelo Ponti. Soy un desarrollador Web Full Stack con experiencia en distintos proyectos personales y grupales bajo la metodología de trabajo Scrum
+Soy Jairo Marcelo Ponti, un desarrollador Web Full Stack con experiencia en distintos proyectos personales y grupales bajo la metodología de trabajo Scrum
 ---
 
 **Lenguajes y herramientas:**
