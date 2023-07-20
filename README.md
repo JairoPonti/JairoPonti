@@ -1,7 +1,7 @@
 <h4> Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 Soy Jairo Marcelo Ponti, un desarrollador Web Full Stack con experiencia en distintos proyectos personales y grupales bajo la metodología de trabajo Scrum.
-Actualmente me encuentro desepeñando tareas para la empresa Valtech, en el área de ecommerce, utilizando Vtex IO y Vtex Legacy. Programando con Javascript, y utilizando jQuery, HTML, CSS, ajax, Postman y React.
+Actualmente me encuentro desepeñando tareas para la empresa Valtech, en el área de ecommerce, utilizando Vtex IO y Vtex Legacy. Programando con Javascript en complemento con Typescript,y utilizando React, jQuery, HTML, CSS, ajax y Postman entre otras herrmaientas.
 ---
 
 **Lenguajes y herramientas:**
